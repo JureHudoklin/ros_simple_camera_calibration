@@ -1,0 +1,4 @@
+<launch>
+  <node name="camera_calibrate" pkg="simple_camera_calibration" type="camera_calibration_service.py" output="screen" >
+  </node> 
+</launch>
